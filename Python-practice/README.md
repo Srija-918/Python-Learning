@@ -56,13 +56,25 @@ Concepts learned:
 - comparison operators
 - logical operators
 
-Upcoming Topics
+Day 03 - Loops
 
-- Loops
-- Functions
-- Lists
-- Dictionaries
-- File Handling
-- Object-Oriented Programming
+Programs completed:
 
-Learning one step at a time. 
+1. Print numbers from 1 to 10
+2. Print even numbers from 1 to 20
+3. Multiplication Table
+4. Sum of First N Numbers
+5. Factorial of a Number
+6. Reverse Counting (N to 1)
+7. Star Pattern
+
+Concepts Learned:
+
+- for loops
+- range()
+- loop variables
+- accumulation
+- multiplication using loops
+- factorial logic
+- pattern printing
+
