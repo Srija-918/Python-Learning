@@ -78,3 +78,25 @@ Concepts Learned:
 - factorial logic
 - pattern printing
 
+Day 04 - Strings
+
+Programs completed:
+1. Count Characters in a Name
+2. Convert Name to Uppercase
+3. Convert Name to Lowercase
+4. Check if a Word Contains a Letter
+5. Count Vowels
+6. Reverse a String
+7. Palindrome Check
+
+Concepts learned:
+
+- Strings
+- len()
+- upper()
+- lower()
+- String membership (in)
+- Iterating through strings
+- String slicing
+- Palindrome logic
+
