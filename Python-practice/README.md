@@ -81,6 +81,7 @@ Concepts Learned:
 Day 04 - Strings
 
 Programs completed:
+
 1. Count Characters in a Name
 2. Convert Name to Uppercase
 3. Convert Name to Lowercase
@@ -100,3 +101,23 @@ Concepts learned:
 - String slicing
 - Palindrome logic
 
+## Day 05 - Lists
+
+Programs completed:
+
+1. List Basics
+2. List Length
+3. First Item
+4. Last Item
+5. Loop Through List
+6. Add Item
+7. Count Items Without len()
+
+Concepts learned:
+
+- Lists
+- List indexing
+- len()
+- for loops with lists
+- append()
+- Manual counting
