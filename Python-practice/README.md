@@ -16,7 +16,7 @@ Goals
 
 Progress
 
-Day 01 - Python Basics
+## Day 01 - Python Basics
 
 Programs completed:
 
@@ -36,7 +36,7 @@ Concepts learned:
 - float()
 - arithmetic operators
 
-Day 02 - Conditional Statements
+## Day 02 - Conditional Statements
 
 Programs completed:
 
@@ -56,7 +56,7 @@ Concepts learned:
 - comparison operators
 - logical operators
 
-Day 03 - Loops
+## Day 03 - Loops
 
 Programs completed:
 
@@ -78,7 +78,7 @@ Concepts Learned:
 - factorial logic
 - pattern printing
 
-Day 04 - Strings
+## Day 04 - Strings
 
 Programs completed:
 
@@ -121,3 +121,45 @@ Concepts learned:
 - for loops with lists
 - append()
 - Manual counting
+
+## Day 06 - Functions
+
+Programs completed:
+
+1. Basic Function
+2. Greet User
+3. Add Two Numbers
+4. Square Number
+5. Cube Number
+6. Even or Odd Function
+7. Largest of Two Numbers
+
+Concepts learned:
+
+- def
+- Function calling
+- Parameters
+- Passing values to functions
+- Using conditions inside functions
+
+## Day 07 - Dictionaries
+
+Programs completed:
+
+1. Create Dictionary
+2. Print Name
+3. Print Details
+4. Add City
+5. Print Keys
+6. Print Values
+7. Count Dictionary Items
+
+Concepts learned:
+
+- Dictionaries
+- Key-value pairs
+- Accessing values using keys
+- Adding new items
+- keys()
+- values()
+- len() with dictionaries
