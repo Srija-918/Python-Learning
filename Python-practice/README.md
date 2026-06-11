@@ -187,3 +187,27 @@ Concepts learned:
 - Counting items manually
 - Membership operator (in)
 - len() with tuples
+
+## Day 09 - Sets
+
+Programs completed:
+
+1. Set Basics
+2. Set Length
+3. Check Item in Set
+4. Loop Through Set
+5. Add Item to Set
+6. Remove Item from Set
+7. Count Set Items Without len()
+
+Concepts learned:
+
+- Sets
+- Creating sets using {}
+- Unique values
+- Unordered collections
+- Membership operator (in)
+- Looping through sets
+- add()
+- remove()
+- len() with sets
