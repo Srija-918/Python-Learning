@@ -163,3 +163,27 @@ Concepts learned:
 - keys()
 - values()
 - len() with dictionaries
+
+## Day 08 - Tuples
+
+Programs completed:
+
+1. Tuple Basics
+2. Tuple Length
+3. First Tuple Item
+4. Last Tuple Item
+5. Loop Through Tuple
+6. Count Tuple Items Without len()
+7. Check Fruit in Tuple
+
+Concepts learned:
+
+- Tuples
+- Creating tuples using ()
+- Tuple indexing
+- Positive indexing
+- Negative indexing
+- Looping through tuples
+- Counting items manually
+- Membership operator (in)
+- len() with tuples
