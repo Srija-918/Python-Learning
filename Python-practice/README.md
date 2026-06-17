@@ -239,3 +239,31 @@ Concepts learned:
 - Appending data to files
 - Counting characters in a file
 - Counting lines in a file
+
+## Day 10 - File Handling
+
+Programs completed:
+
+1. Write to File
+2. Read from File
+3. Save User Input to a File
+4. Read User Note
+5. Append to File
+6. Count Characters in a File
+7. Count Lines in a File
+
+Concepts learned:
+
+- File Handling
+- open()
+- read()
+- write()
+- append mode ("a")
+- read mode ("r")
+- write mode ("w")
+- close()
+- Reading file contents
+- Writing data to files
+- Appending data to files
+- Counting characters in a file
+- Counting lines in a file
