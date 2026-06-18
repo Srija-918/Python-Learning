@@ -267,3 +267,25 @@ Concepts learned:
 - Appending data to files
 - Counting characters in a file
 - Counting lines in a file
+
+## Day 12 - Modules
+
+Programs completed:
+
+1. Create and Import Module
+2. Math Module
+3. Message Module
+4. Calculator Module
+5. Student Module
+6. Square Module
+7. Cube Module
+
+Concepts learned:
+
+- Modules
+- import
+- Creating custom modules
+- Calling functions from another file
+- Passing parameters to module functions
+- Reusing code across files
+- Organizing Python programs
