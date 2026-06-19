@@ -289,3 +289,26 @@ Concepts learned:
 - Passing parameters to module functions
 - Reusing code across files
 - Organizing Python programs
+
+## Day 13 - Mini Projects
+
+Programs completed:
+
+1. Student Grade
+2. Student Result
+3. Shopping List
+4. Expense Tracker
+5. Contact Book
+6. Notes Saver
+7. Safe Marks
+
+Concepts learned:
+
+- Combining multiple Python concepts
+- Lists and Dictionaries
+- File Handling
+- Exception Handling
+- User Input
+- Loops
+- Conditions
+- Mini Project Development
