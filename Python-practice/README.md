@@ -312,3 +312,24 @@ Concepts learned:
 - Loops
 - Conditions
 - Mini Project Development
+
+## Day 14 - Logic Building
+
+Programs completed:
+
+1. Count Vowels
+2. Reverse String
+3. Largest Number
+4. Count Words
+
+Concepts learned:
+
+- String manipulation
+- Vowel counting
+- String slicing
+- Lists
+- User input
+- max()
+- split()
+- Word counting logic
+- Problem-solving and logic building
